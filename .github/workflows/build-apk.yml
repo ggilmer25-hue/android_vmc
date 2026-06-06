@@ -37,8 +37,11 @@ jobs:
       - name: Flutter doctor
         run: flutter doctor -v
 
+      - name: Verify Flet
+        run: flet --version
+
       - name: Build APK (Flet)
-        run: flet build apk -v
+        run: flet build apk -v --yes --no-rich-output
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
