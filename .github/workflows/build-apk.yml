@@ -41,6 +41,12 @@ jobs:
         run: flet --version
 
       - name: Build APK (Flet)
+        env:
+          PYTHONUTF8: '1'
+          PYTHONIOENCODING: 'utf-8'
+          TERM: dumb
+          NO_COLOR: '1'
+          FLET_NO_RICH_OUTPUT: '1'
         run: flet build apk -v --yes --no-rich-output
 
       - name: Upload APK artifact
