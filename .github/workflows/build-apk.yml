@@ -38,7 +38,7 @@ jobs:
         run: flutter doctor -v
 
       - name: Build APK (Flet)
-        run: python -m flet build apk -v
+        run: flet build apk -v
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
