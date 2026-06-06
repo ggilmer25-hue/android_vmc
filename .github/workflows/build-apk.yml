@@ -8,6 +8,7 @@ on:
 jobs:
   build-apk:
     runs-on: windows-latest
+    timeout-minutes: 40
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,8 +29,10 @@ jobs:
           flutter-version: '3.41.7'
 
       - name: Accept Android licenses
+        shell: pwsh
         run: |
-          echo y | flutter doctor --android-licenses || true
+          $input = ('y' + [char]13 + [char]10) * 20
+          $input | flutter doctor --android-licenses || true
 
       - name: Flutter doctor
         run: flutter doctor -v
