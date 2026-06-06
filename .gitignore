@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+*.egg-info/
+pip-wheel-metadata/
+.python-version
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Flet / Flutter build artifacts
+build/
+dist/
+*.apk
+*.aab
+*.log
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.flutter-plugins
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains
+.idea/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Other
+*.swp
+*.swo
+*~

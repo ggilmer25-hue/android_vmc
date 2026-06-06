@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/1584795214_3155038818_223132457.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_3201849554_3904126543.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_1243668079_1261296434.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_1839128356_1956651915.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_2922592872_792284100.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_2408024828_3978009794.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_2762416605_1410835164.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_2206312712_2623272137.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/sistemas/480p15/partial_movie_files/ResolucionSistema/4072820271_1734327179_1565413090.mp4'

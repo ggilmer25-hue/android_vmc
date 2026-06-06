@@ -1,0 +1,756 @@
+{
+    "bimestre": [
+        {
+            "fecha": "07 de July de 2026",
+            "lectura": "Génesis 1-2",
+            "presidente": "Rafael Guanipa",
+            "oracion": "Engelberth Oviol",
+            "num1_tesoros": "David Cordero",
+            "num2_tesoros": "Alexis Contreras",
+            "lectura_biblia": "Alvaro Patiño",
+            "maestros": [
+                [
+                    "Conversación (Enc.)",
+                    "Gilmer González"
+                ],
+                [
+                    "Conversación (Ayu.)",
+                    "Yetzai Guaidó"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Jhovannys Suárez"
+                ]
+            ],
+            "estudio_biblico": "David Cordero",
+            "lector": "Eleazar Saavedra",
+            "presidencia_aux": "Jhovannys Suárez",
+            "sonido": "Yonnell Pérez / Alvaro Patiño",
+            "plataforma": "Santiago Goyo",
+            "microfonos": "Yohander Pérez / Luis Márquez",
+            "acomodadores": "Alexis Contreras / Engelberth Oviol",
+            "no_reunion": false
+        },
+        {
+            "fecha": "14 de July de 2026",
+            "lectura": "Génesis 3-4",
+            "presidente": "Gilmer González",
+            "oracion": "Rafael Guanipa",
+            "num1_tesoros": "Jhovannys Suárez",
+            "num2_tesoros": "Alexis Contreras",
+            "lectura_biblia": "Gilmer de Jesús G.",
+            "maestros": [
+                [
+                    "Revisita (Enc.)",
+                    "Raúl Cordero"
+                ],
+                [
+                    "Revisita (Ayu.)",
+                    "Fabiana De Pineda"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Rafael Guanipa"
+                ]
+            ],
+            "estudio_biblico": "Rafael Guanipa",
+            "lector": "Yonnell Pérez",
+            "presidencia_aux": "Engelberth Oviol",
+            "sonido": "Yonnell Pérez / Engelberth Oviol M",
+            "plataforma": "Jhon Hurtado",
+            "microfonos": "Johan Decaro / Roberth González",
+            "acomodadores": "Rafael Torrealba / Raúl Cordero",
+            "no_reunion": false
+        },
+        {
+            "fecha": "21 de July de 2026",
+            "lectura": "Génesis 5-6",
+            "presidente": "Engelberth Oviol",
+            "oracion": "Jhovannys Suárez",
+            "num1_tesoros": "David Cordero",
+            "num2_tesoros": "Gonzalo Sayago",
+            "lectura_biblia": "Yonnell Pérez",
+            "maestros": [
+                [
+                    "Discipulado (Enc.)",
+                    "Yonnell Pérez"
+                ],
+                [
+                    "Discipulado (Ayu.)",
+                    "Andy González"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Gonzalo Sayago"
+                ]
+            ],
+            "estudio_biblico": "Engelberth Oviol",
+            "lector": "Sebastian Oviol",
+            "presidencia_aux": "Raúl Cordero",
+            "sonido": "Engelberth Oviol M / Alvaro Patiño",
+            "plataforma": "Santiago Goyo",
+            "microfonos": "Jhon Hurtado / Eleazar Saavedra",
+            "acomodadores": "Gilmer de Jesús G. / Fernando La Cruz",
+            "no_reunion": false
+        },
+        {
+            "fecha": "28 de July de 2026",
+            "lectura": "Génesis 7-8",
+            "presidente": "Jhovannys Suárez",
+            "oracion": "David Cordero",
+            "num1_tesoros": "Gonzalo Sayago",
+            "num2_tesoros": "Roberth González",
+            "lectura_biblia": "Alvaro I Patiño",
+            "maestros": [
+                [
+                    "Conversación (Enc.)",
+                    "Rafael Torrealba"
+                ],
+                [
+                    "Conversación (Ayu.)",
+                    "Maribel De Decaro"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Jhovannys Suárez"
+                ]
+            ],
+            "estudio_biblico": "Jhovannys Suárez",
+            "lector": "Gilmer de Jesús G.",
+            "presidencia_aux": "Raúl Cordero",
+            "sonido": "Engelberth Oviol M / Yonnell Pérez",
+            "plataforma": "Fernando La Cruz",
+            "microfonos": "Yonnell Pérez / Enyelberth Rodríguez",
+            "acomodadores": "Gonzalo Sayago / Eleazar Saavedra",
+            "no_reunion": false
+        },
+        {
+            "fecha": "04 de August de 2026",
+            "lectura": "Génesis 9-10",
+            "presidente": "Jhovannys Suárez",
+            "oracion": "Gilmer de Jesús G.",
+            "num1_tesoros": "Raúl Cordero",
+            "num2_tesoros": "Emilio Carreño",
+            "lectura_biblia": "Gilmer de Jesús G.",
+            "maestros": [
+                [
+                    "Revisita (Enc.)",
+                    "Alvaro Patiño"
+                ],
+                [
+                    "Revisita (Ayu.)",
+                    "Johana De Patiño"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Gilmer González"
+                ]
+            ],
+            "estudio_biblico": "Raúl Cordero",
+            "lector": "Jhonatan Goyo",
+            "presidencia_aux": "Gilmer González",
+            "sonido": "Alvaro Patiño / Engelberth Oviol M",
+            "plataforma": "Santiago Goyo",
+            "microfonos": "Emilio Carreño / Anel Rodríguez",
+            "acomodadores": "Eleazar Saavedra / David Cordero",
+            "no_reunion": false
+        },
+        {
+            "fecha": "11 de August de 2026",
+            "lectura": "Génesis 11-12",
+            "presidente": "Javier Alvarado",
+            "oracion": "Gonzalo Sayago",
+            "num1_tesoros": "David Cordero",
+            "num2_tesoros": "Freddy Rodríguez",
+            "lectura_biblia": "Javier Alvarado",
+            "maestros": [
+                [
+                    "Discipulado (Enc.)",
+                    "Alvaro Patiño"
+                ],
+                [
+                    "Discipulado (Ayu.)",
+                    "Damaris De Rodríguez"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Gilmer González"
+                ]
+            ],
+            "estudio_biblico": "Gilmer González",
+            "lector": "Enyelberth Rodríguez",
+            "presidencia_aux": "David Cordero",
+            "sonido": "Alvaro Patiño / Yonnell Pérez",
+            "plataforma": "Santiago Goyo",
+            "microfonos": "Yohander Pérez / Angel Decaro",
+            "acomodadores": "David Cordero / Gilmer de Jesús G.",
+            "no_reunion": false
+        },
+        {
+            "fecha": "18 de August de 2026",
+            "lectura": "Génesis 13-14",
+            "presidente": "Rafael Torrealba",
+            "oracion": "Gilmer González",
+            "num1_tesoros": "Raúl Cordero",
+            "num2_tesoros": "Jhovannys Suárez",
+            "lectura_biblia": "Jhonatan Goyo",
+            "maestros": [
+                [
+                    "Conversación (Enc.)",
+                    "Angel Decaro"
+                ],
+                [
+                    "Conversación (Ayu.)",
+                    "Engelberth Oviol"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Raúl Cordero"
+                ]
+            ],
+            "estudio_biblico": "Rafael Guanipa",
+            "lector": "Gilmer de Jesús G.",
+            "presidencia_aux": "Gilmer González",
+            "sonido": "Yonnell Pérez / Engelberth Oviol M",
+            "plataforma": "Santiago Goyo",
+            "microfonos": "Emilio Carreño / Andy González",
+            "acomodadores": "Raúl Cordero / Eleazar Saavedra",
+            "no_reunion": false
+        },
+        {
+            "fecha": "25 de August de 2026",
+            "lectura": "Génesis 15-16",
+            "presidente": "Gonzalo Sayago",
+            "oracion": "Raúl Cordero",
+            "num1_tesoros": "Rafael Guanipa",
+            "num2_tesoros": "Raúl Cordero",
+            "lectura_biblia": "Engelberth Oviol",
+            "maestros": [
+                [
+                    "Revisita (Enc.)",
+                    "Rafael Guanipa"
+                ],
+                [
+                    "Revisita (Ayu.)",
+                    "Jeisimar Rodríguez"
+                ]
+            ],
+            "partes_vida": [
+                [
+                    "Parte 1",
+                    "Jhovannys Suárez"
+                ]
+            ],
+            "estudio_biblico": "Engelberth Oviol",
+            "lector": "Gonzalo Sayago",
+            "presidencia_aux": "Raúl Cordero",
+            "sonido": "Alvaro Patiño / Yonnell Pérez",
+            "plataforma": "Jhon Hurtado",
+            "microfonos": "Jhon Hurtado / Johan Decaro",
+            "acomodadores": "Alvaro Patiño / Engelberth Oviol",
+            "no_reunion": false
+        }
+    ],
+    "congregacion": [
+        {
+            "Nombre": "Rafael Guanipa",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584245625222.0
+        },
+        {
+            "Nombre": "Javier Alvarado",
+            "Privilegio": "Siervo Min.",
+            "Genero": "M",
+            "Telefono": 584245674099.0
+        },
+        {
+            "Nombre": "Gladys De Guanipa",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245437712.0
+        },
+        {
+            "Nombre": "Yujeilin De Márquez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584262559533.0
+        },
+        {
+            "Nombre": "María Márquez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121474114.0
+        },
+        {
+            "Nombre": "Luis Márquez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584262559533.0
+        },
+        {
+            "Nombre": "Johan Decaro",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584245289847.0
+        },
+        {
+            "Nombre": "Maribel De Decaro",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584169067036.0
+        },
+        {
+            "Nombre": "Angel Decaro",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584169067036.0
+        },
+        {
+            "Nombre": "Margarita Robertis",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245742934.0
+        },
+        {
+            "Nombre": "Juana Robertis",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245742934.0
+        },
+        {
+            "Nombre": "Anel Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584245166120.0
+        },
+        {
+            "Nombre": "Nora De Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245166120.0
+        },
+        {
+            "Nombre": "Gilmer González",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584245345658.0
+        },
+        {
+            "Nombre": "Gilmer de Jesús G.",
+            "Privilegio": "Siervo Min.",
+            "Genero": "M",
+            "Telefono": 584124163681.0
+        },
+        {
+            "Nombre": "Rosangela De González",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584124163681.0
+        },
+        {
+            "Nombre": "Roberth González",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584124165208.0
+        },
+        {
+            "Nombre": "Andy González",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584124163681.0
+        },
+        {
+            "Nombre": "Nellys De Pérez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584145665595.0
+        },
+        {
+            "Nombre": "Yonnell Pérez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584220036604.0
+        },
+        {
+            "Nombre": "Yohander Pérez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584145665595.0
+        },
+        {
+            "Nombre": "Pastora De Fonseca",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245550897.0
+        },
+        {
+            "Nombre": "Haydee Rangel",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584125085466.0
+        },
+        {
+            "Nombre": "Yesenia Rangel",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584145137825.0
+        },
+        {
+            "Nombre": "Yetzai Guaidó",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121574547.0
+        },
+        {
+            "Nombre": "Yetzibe Guaidó",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584167945442.0
+        },
+        {
+            "Nombre": "Gonzalo Sayago",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584145245835.0
+        },
+        {
+            "Nombre": "Rafael Torrealba",
+            "Privilegio": "Siervo Min.",
+            "Genero": "M",
+            "Telefono": 584263351985.0
+        },
+        {
+            "Nombre": "Jhon Hurtado",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584129927093.0
+        },
+        {
+            "Nombre": "Fabiana De Pineda",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584128648034.0
+        },
+        {
+            "Nombre": "Reymar Pineda",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121889467.0
+        },
+        {
+            "Nombre": "Doralia Vazquez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584161247654.0
+        },
+        {
+            "Nombre": "Luisa Castillo",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584165519681.0
+        },
+        {
+            "Nombre": "Jassiel Mendoza",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584145082303.0
+        },
+        {
+            "Nombre": "Maritza De Torrealba",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584263351985.0
+        },
+        {
+            "Nombre": "Eleazar Saavedra",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584126799605.0
+        },
+        {
+            "Nombre": "Engelberth Oviol",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584125080529.0
+        },
+        {
+            "Nombre": "Douglas Guerra",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": NaN
+        },
+        {
+            "Nombre": "Jhonny Adán",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584161220330.0
+        },
+        {
+            "Nombre": "Faviola De Oviol",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584125080542.0
+        },
+        {
+            "Nombre": "Fernando La Cruz",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": NaN
+        },
+        {
+            "Nombre": "Birlandy De Rojo",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584149559202.0
+        },
+        {
+            "Nombre": "Francis Rojo",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245804213.0
+        },
+        {
+            "Nombre": "Gregoria Domoromo",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584264539648.0
+        },
+        {
+            "Nombre": "Zoila De Adán",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584162301975.0
+        },
+        {
+            "Nombre": "Claricza Adán",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584166788118.0
+        },
+        {
+            "Nombre": "Angeles Adán",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584120460441.0
+        },
+        {
+            "Nombre": "María Espinoza",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 58559281164588.0
+        },
+        {
+            "Nombre": "Jhovannys Suárez",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584167513855.0
+        },
+        {
+            "Nombre": "Alexis Contreras",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584245456104.0
+        },
+        {
+            "Nombre": "Yaritza De Contreras",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584161301476.0
+        },
+        {
+            "Nombre": "Yariannys Contreras",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584161301476.0
+        },
+        {
+            "Nombre": "Emilio Carreño",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584160250935.0
+        },
+        {
+            "Nombre": "Maria De Carreño",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584160250935.0
+        },
+        {
+            "Nombre": "Emelyn Carreño",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584164143996.0
+        },
+        {
+            "Nombre": "Eimy Vasquez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584164152709.0
+        },
+        {
+            "Nombre": "Eleazar Carreño",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584164143996.0
+        },
+        {
+            "Nombre": "Petra Evies",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584120541737.0
+        },
+        {
+            "Nombre": "Raúl Cordero",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584263533567.0
+        },
+        {
+            "Nombre": "Jhonatan Goyo",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584145533504.0
+        },
+        {
+            "Nombre": "Alvaro Patiño",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584125425095.0
+        },
+        {
+            "Nombre": "Johana De Patiño",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245583754.0
+        },
+        {
+            "Nombre": "Alvaro I Patiño",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584164515058.0
+        },
+        {
+            "Nombre": "Lorena De Patiño",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245483869.0
+        },
+        {
+            "Nombre": "María Patiño",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584245483869.0
+        },
+        {
+            "Nombre": "Santiago Goyo",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584245483869.0
+        },
+        {
+            "Nombre": "Naiyolis De Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584246286669.0
+        },
+        {
+            "Nombre": "Enyelberth Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584149732442.0
+        },
+        {
+            "Nombre": "Kharla Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584246286669.0
+        },
+        {
+            "Nombre": "Damaris De Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121527090.0
+        },
+        {
+            "Nombre": "Jeismarys Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121527090.0
+        },
+        {
+            "Nombre": "Adriannys Parra",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121527090.0
+        },
+        {
+            "Nombre": "Jeisimar Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584121527090.0
+        },
+        {
+            "Nombre": "David Cordero",
+            "Privilegio": "Anciano",
+            "Genero": "M",
+            "Telefono": 584121509115.0
+        },
+        {
+            "Nombre": "Engelberth Oviol M",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584128911643.0
+        },
+        {
+            "Nombre": "Freddy Rodríguez",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584129989878.0
+        },
+        {
+            "Nombre": "Nathalia Cordero Mendoza",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584264369831.0
+        },
+        {
+            "Nombre": "Alexandra Cordero De Martinez",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584168633177.0
+        },
+        {
+            "Nombre": "Aleximar Cordero",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584168633177.0
+        },
+        {
+            "Nombre": "Diana De Oviol",
+            "Privilegio": "Publicador",
+            "Genero": "F",
+            "Telefono": 584145021652.0
+        },
+        {
+            "Nombre": "Sebastian Oviol",
+            "Privilegio": "Publicador",
+            "Genero": "M",
+            "Telefono": 584128911643.0
+        }
+    ]
+}

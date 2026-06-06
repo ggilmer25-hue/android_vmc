@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/1584795214_3735449518_223132457.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_3201849554_3755587305.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_3472218963_1676614053.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_3667180181_4243647602.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_1839128356_2707648583.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_1040806249_484505582.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/SenoCosenoSombreado/4072820271_1734327179_3110805051.mp4'

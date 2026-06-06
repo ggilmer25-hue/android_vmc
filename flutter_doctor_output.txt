@@ -1,0 +1,43 @@
+[!] Flutter (Channel stable, 3.41.7, on Microsoft Windows [Versi¢n 10.0.19045.6456], locale es-VE) [1.091ms]
+    • Flutter version 3.41.7 on channel stable at C:\Users\ggilm\flutter\3.41.7
+    ! The flutter binary is not on your path. Consider adding C:\Users\ggilm\flutter\3.41.7\bin to your path.
+    ! The dart binary is not on your path. Consider adding C:\Users\ggilm\flutter\3.41.7\bin to your path.
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision cc0734ac71 (7 weeks ago), 2026-04-15 21:21:08 -0700
+    • Engine revision 59aa584fdf
+    • Dart version 3.11.5
+    • DevTools version 2.54.2
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+    • If those were intentional, you can disregard the above warnings; however it is recommended to use "git" directly to perform update checks and upgrades.
+
+[√] Windows Version (10 Pro 64 bits, 22H2, 2009) [9,7s]
+
+[√] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [9,5s]
+    • Android SDK at C:\Users\ggilm\Android\sdk
+    • Emulator version unknown
+    • Platform android-36, build-tools 36.0.0
+    • Java binary at: C:\Users\ggilm\java\17.0.13+11\bin\java
+      This JDK is specified in your Flutter configuration.
+      To change the current JDK, run: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment Temurin-17.0.13+11 (build 17.0.13+11)
+    • All Android licenses accepted.
+
+[√] Chrome - develop for the web [461ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[X] Visual Studio - develop Windows apps [454ms]
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[√] Connected device (3 available) [2,2s]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [Versi¢n 10.0.19045.6456]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 148.0.7778.217
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 148.0.3967.96
+
+[√] Network resources [2,3s]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
+
+---STDERR---

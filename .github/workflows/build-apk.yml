@@ -1,0 +1,44 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-apk:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Flet
+        run: |
+          python -m pip install --upgrade pip
+          pip install flet
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.41.7'
+
+      - name: Accept Android licenses
+        run: |
+          echo y | flutter doctor --android-licenses || true
+
+      - name: Flutter doctor
+        run: flutter doctor -v
+
+      - name: Build APK (Flet)
+        run: python -m flet build apk -v
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-release-apk
+          path: build/flutter/build/app/outputs/apk/release/app-release.apk

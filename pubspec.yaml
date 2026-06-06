@@ -1,0 +1,21 @@
+name: proyectos_manim
+description: A Flet app for ProyectosManim.
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flet: ^0.85.2
+
+dependency_overrides: {}
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

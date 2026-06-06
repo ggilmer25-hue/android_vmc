@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/CampoLogicaVital/1584795214_3775107076_223132457.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/CampoLogicaVital/4072820271_1276599994_313256967.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/CampoLogicaVital/4072820271_1340243312_626888014.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/CampoLogicaVital/4072820271_94743719_4050623373.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/CampoLogicaVital/4072820271_2408024828_1437542903.mp4'

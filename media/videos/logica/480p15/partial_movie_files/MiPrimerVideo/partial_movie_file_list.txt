@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logica/480p15/partial_movie_files/MiPrimerVideo/1584795214_3718457998_223132457.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logica/480p15/partial_movie_files/MiPrimerVideo/4072820271_2751617624_3315553085.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logica/480p15/partial_movie_files/MiPrimerVideo/4072820271_2408024828_311144946.mp4'

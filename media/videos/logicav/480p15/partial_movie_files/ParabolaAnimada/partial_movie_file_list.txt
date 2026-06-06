@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/ParabolaAnimada/1584795214_2023152184_223132457.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/ParabolaAnimada/4072820271_1217062707_2876280814.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/ParabolaAnimada/4072820271_3201849554_2743090268.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/ParabolaAnimada/4072820271_2549260884_3310877149.mp4'
+file 'file:C:/Users/ggilm/OneDrive/Desktop/ProyectosManim/media/videos/logicav/480p15/partial_movie_files/ParabolaAnimada/4072820271_2408024828_3202344123.mp4'
